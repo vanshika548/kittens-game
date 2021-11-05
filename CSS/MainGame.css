@@ -1,0 +1,90 @@
+body{
+    padding:0;
+    margin:0;
+    overflow-y: hidden;
+}
+.room{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.side-logo{
+    width: 120px;
+    height: 100px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+}
+.trophy{
+    height: 50px;
+    width: 50px;
+    transform: rotate(-30deg);
+}
+.logout{
+    height: 40px;
+    width: 40px;
+    padding: 20px;
+    background: url(/Assets/logout.svg) #DE3163;
+    margin-left: 150px;
+    border:2px solid black;
+    border-radius: 40%;
+    margin-top: 40px;
+    cursor: pointer;
+}
+.volume{
+    height: 40px;
+    width: 40px;
+    padding: 20px;
+    background: url(/Assets/volume.svg) #DE3163;
+    margin-left: 230px; 
+    margin-top: 40px;
+    cursor: pointer;
+    border:2px solid black;
+    border-radius: 40%;
+}
+.carpat{
+    transform: rotateX(250deg);
+    margin-top: 40px;
+    margin-left: 300px;
+}
+.rating{
+    width: 450px;
+    height: 50px;
+    border-radius: 20px;
+    background: #DE3163;
+    margin-top: 40px;
+    margin-left: 150px;
+    border: 2px solid black;
+}
+.kitty1{
+    position: absolute;
+    height: 80px;
+    width: 100px;
+    margin-top: 230px;
+    margin-left: -570px;
+}
+.kitty2{
+    position: absolute;
+    height: 80px;
+    width: 100px;
+    margin-top: 280px;
+    margin-left: -680px;
+}
+.kitty3{
+    position: absolute;
+    height: 80px;
+    width: 100px;
+    margin-top: 310px;
+    margin-left: -550px;
+}
+.kitty4{
+    position: absolute;
+    height: 80px;
+    width: 100px;
+    margin-top: 350px;
+    margin-left: -650px;
+}
