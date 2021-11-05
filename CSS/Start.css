@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+}
+.background{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+.logo{
+    position: absolute;
+    height: 30%;
+    width: 15%;
+    margin-left: 540px;
+}
+.yarn{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    margin-left: 620px;
+    margin-top: 145px;
+}
+.carpet{
+    position: absolute;
+    transform: rotateX(250deg);
+    margin-left: 280px;
+    margin-top: 150px;
+}
+
+.pillow{
+    position:absolute;
+    width: 70px;
+    height: 40px;
+    margin-top: 550px;
+    margin-left: 465px;
+}
+
+.sofa-cat{
+    position: absolute;
+    
+}
+ .kitty {
+    position: absolute;
+    margin-left: -250px;
+    height: 203px;
+    width: 190px;
+    margin-top: 240px;
+} 
+.sofa{
+    height: 400px;
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 190px;
+}
+.title{
+    position:absolute;
+    margin-top: 550px;
+    margin-left: 500px;
+    font-size: 18px;
+}
+.start{
+    position:absolute;
+    width: 120px;
+    height: 30px;
+    margin-top: 590px;
+    margin-left: 600px;
+    font-size: 18px;
+    border-radius: 15px;
+    background:#CC9900;
+    border:1px solid whitesmoke;
+    cursor:pointer;
+}
+.yarn1{
+    height: 50px;
+    width: 50px;
+    position:absolute;
+    margin-left: 775px;
+    margin-top: 545px;
+}
