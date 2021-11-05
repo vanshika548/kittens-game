@@ -1,0 +1,79 @@
+body{
+    margin:0;
+    padding: 0;
+}
+
+.heading{
+    display: flex;
+    flex-direction: row;
+    margin-left: 600px;
+}
+.stem{
+    display:flex;
+    flex-direction: row;
+    font-size: 30px;
+    font-weight: 1000;
+}
+.red{
+    color: red;
+    font-weight: 500;
+}
+.yellow{
+    color: yellow;
+}
+.green{
+    color:green;
+}
+.purple{
+    color:purple
+}
+.scopes{
+    color:blue;
+    font-size: 22px;
+    margin-top: 36px;
+    margin-left: 5px;
+}
+.arrow{
+    width: 140px;
+    height: 35px;
+    margin-top: -100px;
+    margin-left: 600px;
+}
+.title{
+    color: gray;
+    margin-left: 545px;
+    font-size: 12px;
+}
+.presents{
+    margin-left: 630px;
+    margin-top: 30px;
+}
+.logo-kitten{
+    margin-left: 560px;
+}
+.choice{
+    margin-left: 550px;
+    margin-top: 40px;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    margin-left: 500px;
+    margin-top: 40px;
+}
+.off{
+    margin-right: 30px;
+    width: 150px;
+    height: 70px;
+    background: transparent;
+    border: 1px solid;
+    border-radius: 10px;
+    
+}
+.on{
+    width: 150px;
+    background: transparent;
+    border: 1px solid;
+    border-radius: 10px;
+    
+}
