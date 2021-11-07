@@ -52,13 +52,25 @@ body{
     margin-left: 300px;
 }
 .rating{
-    width: 450px;
-    height: 50px;
+    width: 430px;
+    height: 40px;
+    padding-bottom: 20px;
     border-radius: 20px;
     background: #DE3163;
     margin-top: 40px;
     margin-left: 150px;
     border: 2px solid black;
+}
+.fa{
+   font-size: 40px !important;
+   margin-left: 20px;
+}
+.zero{
+    font-size: 30px;
+    height: 70px !important;
+    width: 130px;
+    background: white;
+    margin-left: 20px;
 }
 .kitty1{
     position: absolute;
@@ -87,4 +99,46 @@ body{
     width: 100px;
     margin-top: 350px;
     margin-left: -650px;
+}
+.bottom{
+    width: 550px;
+    height: 80px;
+    background: #DE3163;
+    border: 2px solid black;
+    border-radius: 100px;
+    position: absolute;
+    margin-top: 520px;
+    margin-left: 380px;
+}
+.number{
+    margin:13px
+}
+.num{
+    width: 20px !important;
+    height: 20px !important;
+    border-radius: 50%;
+    border: 1px white solid;
+    background:maroon  ;
+    font-size: 20px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    color: white; 
+}
+.button{
+   
+    
+}
+.btn1{
+    border: 2px solid black;
+      padding:10px;
+     padding-left: 30px;
+     padding-right: 30px;
+}
+.btn2{
+    border: 2px solid black;
+    background: darkgreen;
+    padding:10px;
 }

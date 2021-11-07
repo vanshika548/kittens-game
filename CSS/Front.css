@@ -68,12 +68,13 @@ body{
     background: transparent;
     border: 1px solid;
     border-radius: 10px;
-    
+    cursor:pointer;
 }
 .on{
+    height: 70px;
     width: 150px;
     background: transparent;
     border: 1px solid;
     border-radius: 10px;
-    
+    cursor:pointer;
 }
